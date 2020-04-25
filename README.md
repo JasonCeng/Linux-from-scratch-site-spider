@@ -6,5 +6,6 @@ First of all, this is convenient for viewing in a disconnected environment. Seco
 Special statement, this project is not used for any commercial purpose, purely for fun, if you violate any of your rights, please contact me. (cengzhaochuang@stu.csust.edu.cn)
 
 ## To-do-list
-1. - [ ] 爬取整个站点页面
-2. - [ ] 支持断点续传、定时更新
+ - [ ] 爬取首页，并解析出所有链接
+ - [ ] 爬取整个站点页面
+ - [ ] 支持断点续传、定时更新
